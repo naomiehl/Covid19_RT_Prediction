@@ -1,0 +1,18 @@
+Idee:
+
+Feature engineering : 
+
+Ajouter longueur du tweet 
+Rajouter une colonne langage ( en anglais + de chances de se faire RT)
+Separer mention en : pas de mentions, mention de chef d’etat, mentions lambda
+
+
+Techniques :
+
+Classification avant régression  
+Idee :  Multi Class Classification : [0],[[1,10][10,100][100,infini[
+
+NLP : 
+
+analyse des sentiments : https://pypi.org/project/sentistrength/
+Topics Modeling : spread and growth of cases, symptoms, racism, source of the outbreak, political impact of COVID-19, prevention, impact on the economy and markets, government response, impact on the health care industry, treatment and recovery… https://www.jmir.org/2020/10/e22624
